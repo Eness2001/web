@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T01:49:16.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="LMzMtQuIF7nKbmOSypQX" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T01:54:08.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="HLIwxCP_u-FKm4OieY1P" version="21.5.0" type="github">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
-    <mxGraphModel dx="3223" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2920" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,16 +19,15 @@
           <mxGeometry x="270" y="450" width="340" height="150" as="geometry" />
         </mxCell>
         <mxCell id="2ed32ef02a7f4228-7" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;ElKİP&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;--&amp;gt;&lt;/b&gt;ÜRÜN ARAŞTIRMA (&lt;b&gt;AGİT&lt;/b&gt;)&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;--&amp;gt; E-TİCARET SİTESİ(&lt;b&gt;ENES&lt;/b&gt;)&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="720" y="680" width="260" height="90" as="geometry" />
+          <mxGeometry x="80" y="690" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2ed32ef02a7f4228-17" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERoneToMany;fontFamily=Verdana;fontSize=12;align=left;dashed=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="2ed32ef02a7f4228-10" target="2ed32ef02a7f4228-7" edge="1">
+        <mxCell id="2ed32ef02a7f4228-17" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERoneToMany;fontFamily=Verdana;fontSize=12;align=left;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="310" as="sourcePoint" />
-            <mxPoint x="610" y="710" as="targetPoint" />
+            <mxPoint x="50" y="223.75" as="sourcePoint" />
+            <mxPoint x="160" y="680" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="210" />
-              <mxPoint x="110" y="710" />
-              <mxPoint x="700" y="710" />
+              <mxPoint x="100" y="224" />
+              <mxPoint x="100" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -50,7 +49,7 @@
           <mxGeometry x="-120" y="40" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="2ed32ef02a7f4228-11" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;ÜRÜN BELİRLENİRKEN&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;-&amp;gt;Hedef Kitle&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;-&amp;gt; Ucuzluk&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;-&amp;gt; Hızlı Tedarik&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;faktörleri dikkate alınmalıdır.&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="840" y="135" width="210" height="90" as="geometry" />
+          <mxGeometry x="495" y="310" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i9xBxG8gcvza3OIVQHfW-5" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;İŞ TANIMI&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;Belirlenen ürünler için başlangıçta sadece&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;internet üzeri ödeme alarak havuz da toplanan&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;para ile ilgili siparişlerin teslimatı gerçekleştirilir.&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;Sürecin başında temel amaç para kazanmakla &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;beraber belli bir müşteri portföyü oluşturmak&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;ve sistemitest edip iyileştirmektir.&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;Alınan ücretler gerektiğinde müşterilerle ilet-&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;işime geçerek iadesi yapılır. &lt;br&gt;  &lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-780" y="480" width="370" height="155" as="geometry" />
