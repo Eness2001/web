@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T10:48:24.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Z9tURubxlFroxC4UC80O" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T16:27:00.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GLvH7i_dDkaWOxsyO-Fh" version="22.1.6" type="github">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
-    <mxGraphModel dx="2449" dy="2209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6983" dy="2143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,12 +104,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5O1IqGXms_TVmA95R5Zz-4" value="Kullanıcı Girişi Var Mı?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-1010" y="1230" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1950" y="1200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5O1IqGXms_TVmA95R5Zz-5" value="True" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="5O1IqGXms_TVmA95R5Zz-7" target="5O1IqGXms_TVmA95R5Zz-13" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-950" y="1479.9999999999998" as="targetPoint" />
+            <mxPoint x="-1890" y="1449.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5O1IqGXms_TVmA95R5Zz-6" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="1" source="5O1IqGXms_TVmA95R5Zz-7" target="5O1IqGXms_TVmA95R5Zz-8" edge="1">
@@ -118,21 +118,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5O1IqGXms_TVmA95R5Zz-7" value="isLoggedIn" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="-1000" y="1320" width="100" height="80" as="geometry" />
+          <mxGeometry x="-1940" y="1290" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5O1IqGXms_TVmA95R5Zz-8" value="Redirect to /account/login" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-850" y="1340" width="160" height="40" as="geometry" />
+          <mxGeometry x="-1790" y="1310" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5O1IqGXms_TVmA95R5Zz-13" value="&lt;div&gt;Redirect to /account&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-1010" y="1480" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1950" y="1450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FyYrkhMJ-n6l9w6ZDJX0-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5O1IqGXms_TVmA95R5Zz-15" target="FyYrkhMJ-n6l9w6ZDJX0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FyYrkhMJ-n6l9w6ZDJX0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5O1IqGXms_TVmA95R5Zz-15" target="FyYrkhMJ-n6l9w6ZDJX0-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5O1IqGXms_TVmA95R5Zz-15" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;e-Commerce Web App Work Flow &lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Diagram&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-200" y="1050" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="kjNT_eM3_dsYezInZOTn-1" value="e-Commerce Mobile App Work Flow" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kjNT_eM3_dsYezInZOTn-1" value="e-Commerce Mobile App Work Flow" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1630" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjNT_eM3_dsYezInZOTn-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.014;exitY=0.172;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kjNT_eM3_dsYezInZOTn-1">
+        <mxCell id="kjNT_eM3_dsYezInZOTn-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.014;exitY=0.172;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="kjNT_eM3_dsYezInZOTn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1880" y="1560" as="sourcePoint" />
             <mxPoint x="1870" y="1330" as="targetPoint" />
@@ -141,8 +147,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kjNT_eM3_dsYezInZOTn-5" value="&lt;div&gt;Teknoloji&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;--&amp;gt;Backend&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Nodejs&lt;/li&gt;&lt;li&gt;Js&lt;/li&gt;&lt;li&gt;MongoDb&lt;/li&gt;&lt;li&gt;Postman&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;--&amp;gt;Frontend&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;HTML&lt;/li&gt;&lt;li&gt;CSS&lt;/li&gt;&lt;li&gt;REACT-NATİVE&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;--&amp;gt;Hosting&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Netlify&lt;/li&gt;&lt;li&gt;Swagger&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kjNT_eM3_dsYezInZOTn-5" value="&lt;div&gt;Teknoloji&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;--&amp;gt;Backend&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Nodejs&lt;/li&gt;&lt;li&gt;Js&lt;/li&gt;&lt;li&gt;MongoDb&lt;/li&gt;&lt;li&gt;Postman&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;--&amp;gt;Frontend&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;HTML&lt;/li&gt;&lt;li&gt;CSS&lt;/li&gt;&lt;li&gt;REACT-NATİVE&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;--&amp;gt;Hosting&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Netlify&lt;/li&gt;&lt;li&gt;Swagger&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1870" y="1200" width="200" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="FyYrkhMJ-n6l9w6ZDJX0-1" value="Pages&lt;br&gt;--&amp;gt;Login&amp;nbsp;&lt;br&gt;--&amp;gt;Register&lt;br&gt;--&amp;gt;Forget-password" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1260" width="200" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="FyYrkhMJ-n6l9w6ZDJX0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FyYrkhMJ-n6l9w6ZDJX0-3" target="FyYrkhMJ-n6l9w6ZDJX0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FyYrkhMJ-n6l9w6ZDJX0-3" value="component&lt;br&gt;--&amp;gt;Navbar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FyYrkhMJ-n6l9w6ZDJX0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FyYrkhMJ-n6l9w6ZDJX0-5" target="FyYrkhMJ-n6l9w6ZDJX0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FyYrkhMJ-n6l9w6ZDJX0-5" value="Navbar&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FyYrkhMJ-n6l9w6ZDJX0-7" value="3 Alandan oluşur&amp;nbsp;&lt;br&gt;--&amp;gt; Menu item&lt;br&gt;--&amp;gt; E-commerce Logo&lt;br&gt;--&amp;gt;Search icon , Profile İcon and Basket İcon" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="1420" width="230" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
